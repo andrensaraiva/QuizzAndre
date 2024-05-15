@@ -1,0 +1,4 @@
+repository "Jogos3A@MayoumaStudio@cloud"
+  path "/"
+    br "/main"
+    co "/main"
